@@ -2,6 +2,7 @@ import random
 
 print('-----------PythonLearn--------------')
 
+"""生成1-—100的随机数"""
 secret = random.randint(1, 100)
 
 temp = input("请输入你猜想的数字:")
