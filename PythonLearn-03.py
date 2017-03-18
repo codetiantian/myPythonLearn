@@ -27,6 +27,7 @@ for j in range(2, 9) :
 8
 """
 
+"""第三个参数为step"""
 for k in range(1, 10, 2) :
     print(k) 
 
